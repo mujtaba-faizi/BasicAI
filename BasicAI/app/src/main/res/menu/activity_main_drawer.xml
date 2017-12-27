@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ML"
+            android:title="Machine Learning" />
+        <item
+            android:id="@+id/CV"
+            android:title="Computer Vision" />
+        <item
+            android:id="@+id/DL"
+            android:title="Deep Learning" />
+        <item
+            android:id="@+id/IT"
+            android:layout_width="wrap_content"
+            android:title="Improvement Techniques" />
+    </group>
+</menu>
