@@ -8,6 +8,10 @@ Therefore, we have decided to create a mobile app providing a very easy interfac
 3.	The students will understand the various model improving techniques.
 
 4.	In the image analysis domain, students will be able to upload their pictures and see their histograms structure, how to identify various important features in them and whatnot.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/30017031/34384450-1072cc66-eb3e-11e7-936b-51bc5f766944.png" width="350"/>
+  <img src="https://user-images.githubusercontent.com/30017031/34384451-10bb69e4-eb3e-11e7-8904-f1ad31a72ba4.jpg" width="300"/>
+</p>
 5.	The app will allow automatically calculating and showing the output by using formulas e.g. for updating weights to get minimum error in output (stochastic gradient descent).
  
 
