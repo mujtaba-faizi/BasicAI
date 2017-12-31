@@ -5,4 +5,17 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="title">ARTIFICIAL INTELLIEGENCE</string>
+    <string name="CVtitle">3. Computer Vision</string>
+    <string name="MLtitle">1. Machine Learning</string>
+    <string name="DLtitle">2. Deep Learning</string>
+    <string name="ITtitle">4. Improvement Techniques</string>
+    <string name="Computer_Vision">Computer vision is a field in which we process and identify images in the same way human vision does and thus providing with appropriate ouput.
+    (This app will enable you to learn how we interact with images in computer vision).</string>
+    <string name="Machine_learning">Machine Learning is a field in which we give computers the ability to automatically learn and improve from experience
+    without explicitly being told what to do so at every step. After learning, these computers can predict the outcome on their own.
+     (This app will describe the various algorithms used for such purpose as well as the terminologies).</string>
+    <string name="Improving_tech">These are the various methods we use to increase the accuracy of our algorithms by reducing error to a minimum. (We will understand the various formulas used in this regard).</string>
+    <string name="Deep_learning">Deep Learning is a sub-field of machine learning to make deep networks corresponding to the neural network we have in our
+    brains for computer learning purposes. (This app will teach you the complexity of these networks).</string>
 </resources>
