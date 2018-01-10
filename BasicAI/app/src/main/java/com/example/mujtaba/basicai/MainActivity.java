@@ -2,9 +2,6 @@ package com.example.mujtaba.basicai;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -15,6 +12,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.example.mujtaba.basicai.Computer_Vision.Upload_image;
+import com.example.mujtaba.basicai.Improving_Techniques.SGD;
+import com.example.mujtaba.basicai.Machine_Learning.ImageRecognition;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -77,9 +76,11 @@ public class MainActivity extends AppCompatActivity
             Intent i = new Intent(getBaseContext(), Upload_image.class);
             startActivity(i);
         } else if (id == R.id.ML) {
-
+            Intent i = new Intent(getBaseContext(), ImageRecognition.class);
+            startActivity(i);
         } else if (id == R.id.IT) {
-
+            Intent i = new Intent(getBaseContext(), SGD.class);
+            startActivity(i);
         } else if (id == R.id.DL) {
 
         }

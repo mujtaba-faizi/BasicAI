@@ -18,4 +18,6 @@
     <string name="Improving_tech">These are the various methods we use to increase the accuracy of our algorithms by reducing error to a minimum. (We will understand the various formulas used in this regard).</string>
     <string name="Deep_learning">Deep Learning is a sub-field of machine learning to make deep networks corresponding to the neural network we have in our
     brains for computer learning purposes. (This app will teach you the complexity of these networks).</string>
+    <string name="SGDDesc">We use this technique to increase the accuracy of the learning algorithms. You will
+    experiment with the values to see how accuracy changes.</string>
 </resources>

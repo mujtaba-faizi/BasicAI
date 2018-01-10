@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.mujtaba.basicai">
+
     <uses-permission android:name="android.permission.CAMERA" />
+
     <uses-feature android:name="android.hardware.camera" />
     <uses-feature android:name="android.hardware.camera.autofocus" />
+
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/logo"
@@ -22,7 +26,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Computer_Vision.Upload_image"></activity>
+        <activity android:name=".Computer_Vision.Upload_image" />
+        <activity android:name=".Machine_Learning.ImageRecognition" />
+        <activity android:name=".Computer_Vision.Histogram" />
+        <activity android:name=".Improving_Techniques.SGD"></activity>
     </application>
 
 </manifest>
