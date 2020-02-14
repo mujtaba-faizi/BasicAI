@@ -5,8 +5,8 @@ The field of Artificial Intelligence(AI) is advancing rapidly and being applied 
 In this regard, we have created a mobile app that provides a very easy-to-use interface, to show the basic concepts/applications of AI, mainly machine learning(ML). Following are the aims this app will achieve:  
 1.	Provide helpful tips/explanation with examples, regarding the terms and algorithms used in AI. 
 2.	The students will understand the various model improvement techniques, and why they are used.
-3.      Provide facial recognition by showing names associated with faces of people (using a trained model).
-4.      Show object recognition by showing names of objects after taking their pictures from the app (using a pre-trained model that shows percentage inclination of an object, like picture of a bottle may produce the output: 70% bottle).
+3. Provide facial recognition by showing names associated with faces of people (using a trained model).
+4. Show object recognition by showing names of objects after taking their pictures from the app (using a pre-trained model that shows percentage inclination of an object, like picture of a bottle may produce the output: 70% bottle).
 4.	In the image analysis domain, students will be able to upload their pictures and play around. They can also see their histograms structure & how to identify various important features associated with them.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30017031/34384450-1072cc66-eb3e-11e7-936b-51bc5f766944.png" width="350"/>
